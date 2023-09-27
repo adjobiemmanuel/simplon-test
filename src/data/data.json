@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "code": 123,
+      "name": "Adjobi",
+      "category": "science",
+      "quantity": 23
+    },
+    {
+      "id": 2,
+      "code": 658,
+      "name": "Kadjo",
+      "category": "informatique",
+      "quantity": 2
+    },
+    {
+      "id": 3,
+      "code": 8745,
+      "name": "pierre",
+      "category": "droit",
+      "quantity": 42
+    }
+  ]
+}
